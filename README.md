@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Student fullstack devlopper at Greta des Hauts-de-Seine.
+
 <!--
 **Sancxo/sancxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
