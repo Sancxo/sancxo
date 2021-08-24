@@ -4,7 +4,7 @@ Student fullstack developer at Greta des Hauts-de-Seine.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sancxo&count_private=true&show_icons=true&theme=chartreuse-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sancxo&layout=compact&langs_count=10& count_private=true&show_icons=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sancxo&layout=compact&langs_count=10&count_private=true&show_icons=true&theme=chartreuse-dark)
 
 https://www.linkedin.com/in/simontirant
 
