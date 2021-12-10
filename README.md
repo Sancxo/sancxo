@@ -2,6 +2,10 @@
 
 Student fullstack developer at Greta des Hauts-de-Seine.
 
+Favourite technologies :
+
+<a href="https://elixir-lang.org/" target="_blank" rel="noopener">![elixir_lang_logo_icon_169207(2)](https://user-images.githubusercontent.com/58341133/145545727-d83f8f9b-5683-457a-9526-4714c48b4b83.png "Elixir")</a>
+
 https://www.linkedin.com/in/simontirant
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sancxo&layout=compact&langs_count=10&count_private=true&show_icons=true&theme=chartreuse-dark)
@@ -22,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
