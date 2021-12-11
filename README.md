@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Student fullstack developer at Greta des Hauts-de-Seine.
+Former student fullstack developer at Greta des Hauts-de-Seine. Now fullstack developper work-student at OpenClassrooms and 7 Lieues Technologies. 
 
 Favourite technologies :
 
