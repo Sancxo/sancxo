@@ -4,7 +4,12 @@ Student fullstack developer at Greta des Hauts-de-Seine.
 
 Favourite technologies :
 
-<a href="https://elixir-lang.org/" target="_blank" rel="noopener">![elixir_lang_logo_icon_169207(2)](https://user-images.githubusercontent.com/58341133/145545727-d83f8f9b-5683-457a-9526-4714c48b4b83.png "Elixir")</a>
+<!-- Elixir / Phoenix -->
+<a href="https://elixir-lang.org/" target="_blank" rel="noopener" title="Elixir"><img src="https://user-images.githubusercontent.com/58341133/145675185-44dd0b77-2e99-484f-998f-78eb50ee6082.png" height="64px"/></a>
+<a href="https://www.phoenixframework.org/" target="_blank" rel="noopener" title="Phoenix"><img src="https://user-images.githubusercontent.com/58341133/145676009-b9929084-1867-4106-a950-91bbcba598f4.png" height="64px"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener" title="TypeScript"><img src="https://user-images.githubusercontent.com/58341133/145675195-992636ac-8e66-4b9c-8f61-bb87e57fd2e3.png" height="64px"/></a>
+<a href="https://angular.io/" target="_blank" rel="noopener" title="Angular"><img src="https://user-images.githubusercontent.com/58341133/145675183-cef3e3a0-aecc-47cd-9806-7f908833b8f3.png" height="64px"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noopener" title="React"><img src="https://user-images.githubusercontent.com/58341133/145675194-466ebcb7-0a98-4b4e-b11a-5adf43732019.png" height="64px"/></a>
 
 https://www.linkedin.com/in/simontirant
 
@@ -22,8 +27,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
