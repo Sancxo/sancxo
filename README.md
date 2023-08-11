@@ -10,8 +10,7 @@ Favourite technologies :
 <a href="https://angular.io/" target="_blank" rel="noreferrer" title="Angular"><img src="https://user-images.githubusercontent.com/58341133/145675183-cef3e3a0-aecc-47cd-9806-7f908833b8f3.png" height="72px"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React"><img src="https://user-images.githubusercontent.com/58341133/145675194-466ebcb7-0a98-4b4e-b11a-5adf43732019.png" height="72px"/></a>
 
-<a href="https://simontirant.dev" target="_blank" rel="noreferrer" title="Linkedin profile">My personal website</a>
-<a href="https://www.linkedin.com/in/simontirant" target="_blank" rel="noreferrer" title="Linkedin profile">My LinkedIn page</a>
+<a href="https://simontirant.dev" target="_blank" rel="noreferrer" title="Linkedin profile">My personal website</a> | <a href="https://www.linkedin.com/in/simontirant" target="_blank" rel="noreferrer" title="Linkedin profile">My LinkedIn page</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sancxo&layout=compact&langs_count=10&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark)
 
