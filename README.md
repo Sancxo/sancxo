@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Former student fullstack developer at Greta des Hauts-de-Seine. Now fullstack developper work-student at OpenClassrooms and 7 Lieues Technologies. 
+Former student fullstack developer at Greta des Hauts-de-Seine and former fullstack developer work-student at OpenClassrooms and 7 Lieues Technologies ; I am now a freelance fullstack developer mainly working with Elixir and Phoenix.
 
 Favourite technologies :
 
