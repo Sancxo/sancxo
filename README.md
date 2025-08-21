@@ -15,6 +15,8 @@ Favourite technologies :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sancxo&count_private=true&show_icons=true&theme=chartreuse-dark)
 
+<a rel="me" href="https://mastodon.social/@sancxo">Mastodon</a>
+
 <!--
 **Sancxo/sancxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
